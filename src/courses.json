@@ -1,0 +1,351 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to React Native",
+    "instructor": "John Doe",
+    "description": "Learn the basics of React Native development and build your first mobile app.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to React Native",
+        "content": "Overview of React Native, setting up your development environment."
+      },
+      {
+        "week": 2,
+        "topic": "Building Your First App",
+        "content": "Creating a simple mobile app using React Native components."
+      }
+    ],
+    "students": [
+      {
+        "id": 101,
+        "name": "Alice Johnson",
+        "email": "alice@example.com"
+      },
+      {
+        "id": 102,
+        "name": "Bob Smith",
+        "email": "bob@example.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Data Science Fundamentals",
+    "instructor": "Jane Smith",
+    "description": "Introduction to Data Science concepts and techniques.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "10 weeks",
+    "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic Python knowledge", "Understanding of statistics"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Data Science",
+        "content": "Overview of Data Science, introduction to Python for Data Science."
+      },
+      {
+        "week": 2,
+        "topic": "Data Analysis with Pandas",
+        "content": "Working with Pandas library for data manipulation and analysis."
+      }
+    ],
+    "students": [
+      {
+        "id": 103,
+        "name": "Charlie Brown",
+        "email": "charlie@example.com"
+      },
+      {
+        "id": 104,
+        "name": "Diana Garcia",
+        "email": "diana@example.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Introduction to Machine Learning",
+    "instructor": "Alex Johnson",
+    "description": "Learn the basics of Machine Learning and its applications.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "your.image.here",
+    "duration": "6 weeks",
+    "schedule": "Fridays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic Python knowledge", "Understanding of linear algebra"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Machine Learning",
+        "content": "Overview of Machine Learning concepts and algorithms."
+      },
+      {
+        "week": 2,
+        "topic": "Supervised Learning",
+        "content": "Understanding supervised learning algorithms and applications."
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": 4,
+    "name": "Web Development Bootcamp",
+    "instructor": "Emily Brown",
+    "description": "Comprehensive training in web development technologies.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "12 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic HTML/CSS knowledge", "Familiarity with JavaScript"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to HTML/CSS",
+        "content": "Basic structure of HTML documents, styling with CSS."
+      },
+      {
+        "week": 2,
+        "topic": "JavaScript Fundamentals",
+        "content": "Fundamental concepts of JavaScript programming language."
+      }
+    ],
+    "students": [
+      {
+        "id": 105,
+        "name": "Ella Davis",
+        "email": "ella@example.com"
+      },
+      {
+        "id": 106,
+        "name": "Frank Johnson",
+        "email": "frank@example.com"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Introduction to Artificial Intelligence",
+    "instructor": "Michael Adams",
+    "description": "Overview of Artificial Intelligence and its applications.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "8 weeks",
+    "schedule": "Wednesdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic Python knowledge", "Understanding of algorithms"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Artificial Intelligence",
+        "content": "Overview of AI, history, and applications."
+      },
+      {
+        "week": 2,
+        "topic": "Search Algorithms",
+        "content": "Introduction to search algorithms in AI."
+      }
+    ],
+    "students": [
+      {
+        "id": 107,
+        "name": "George Brown",
+        "email": "george@example.com"
+      },
+      {
+        "id": 108,
+        "name": "Hannah Smith",
+        "email": "hannah@example.com"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Graphic Design Fundamentals",
+    "instructor": "Sophia Miller",
+    "description": "Learn the basics of graphic design principles and tools.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "6 weeks",
+    "schedule": "Mondays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["None"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Graphic Design",
+        "content": "Overview of graphic design principles and concepts."
+      },
+      {
+        "week": 2,
+        "topic": "Typography",
+        "content": "Understanding typography and its role in design."
+      }
+    ],
+    "students": [
+      {
+        "id": 109,
+        "name": "Ivy Lee",
+        "email": "ivy@example.com"
+      },
+      {
+        "id": 110,
+        "name": "Jack Wilson",
+        "email": "jack@example.com"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mobile App Design",
+    "instructor": "Oliver Thompson",
+    "description": "Learn how to design engaging mobile applications.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "8 weeks",
+    "schedule": "Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic understanding of user interface design"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Mobile App Design",
+        "content": "Overview of mobile app design principles and best practices."
+      },
+      {
+        "week": 2,
+        "topic": "User Experience Design",
+        "content": "Understanding user experience design principles."
+      }
+    ],
+    "students": [
+      {
+        "id": 111,
+        "name": "Kelly Robinson",
+        "email": "kelly@example.com"
+      },
+      {
+        "id": 112,
+        "name": "Liam Taylor",
+        "email": "liam@example.com"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Digital Marketing Essentials",
+    "instructor": "Emma Wilson",
+    "description": "Learn the fundamentals of digital marketing strategies.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "10 weeks",
+    "schedule": "Fridays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["None"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Digital Marketing",
+        "content": "Overview of digital marketing concepts and strategies."
+      },
+      {
+        "week": 2,
+        "topic": "Search Engine Optimization (SEO)",
+        "content": "Understanding SEO techniques for better visibility."
+      }
+    ],
+    "students": [
+      {
+        "id": 113,
+        "name": "Mia Martinez",
+        "email": "mia@example.com"
+      },
+      {
+        "id": 114,
+        "name": "Nathan Harris",
+        "email": "nathan@example.com"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Python Programming",
+    "instructor": "William Davis",
+    "description": "Comprehensive training in Python programming language.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "8 weeks",
+    "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+    "location": "Online",
+    "prerequisites": ["None"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Python",
+        "content": "Basic syntax, data types, and control structures in Python."
+      },
+      {
+        "week": 2,
+        "topic": "Functions and Modules",
+        "content": "Writing functions and organizing code into modules."
+      }
+    ],
+    "students": [
+      {
+        "id": 115,
+        "name": "Olivia Thomas",
+        "email": "olivia@example.com"
+      },
+      {
+        "id": 116,
+        "name": "Patrick Wilson",
+        "email": "patrick@example.com"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Business Analytics",
+    "instructor": "Sophie Johnson",
+    "description": "Learn how to analyze business data and make informed decisions.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "10 weeks",
+    "schedule": "Wednesdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic understanding of statistics"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Business Analytics",
+        "content": "Overview of business analytics and its importance."
+      },
+      {
+        "week": 2,
+        "topic": "Data Visualization",
+        "content": "Creating meaningful visualizations to communicate insights."
+      }
+    ],
+    "students": [
+      {
+        "id": 117,
+        "name": "Quinn Turner",
+        "email": "quinn@example.com"
+      },
+      {
+        "id": 118,
+        "name": "Rachel White",
+        "email": "rachel@example.com"
+      }
+    ]
+  }
+]
