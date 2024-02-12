@@ -1,9 +1,13 @@
-import coursesData from './courses.json';
+import CourseList from './components/CourseList';
+import SearchBar from './components/SearchBar';
+import SearchedCourses from './pages/SearchedCoursesName';
+
 
 function App() {
-  console.log(coursesData)
-  return (
-    <></>
+  return (<div style={{display: 'flex', flexDirection: 'column'}}>
+  <SearchBar/>
+   <CourseList/>
+   </div>
   );
 }
 

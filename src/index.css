@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.course-item{
+    margin: 5rem;
+}
+
+.search-bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.course-item {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif; /* Change to your desired font */
+  }
+  
+  .course-details {
+    padding: 20px;
+  }
+  
+  .course-details h2 {
+    font-size: 24px; /* Increase font size */
+    margin-bottom: 10px;
+  }
+  
+  .course-details .info {
+    font-size: 18px; /* Increase font size */
+    margin-bottom: 5px;
+  }
+  
+  .course-details ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .course-details ul li {
+    font-size: 16px; /* Increase font size */
+    margin-bottom: 5px;
+  }
+  
+  .course-details ul li strong {
+    font-weight: bold;
+  }
+
+  .search-section {
+    margin-bottom: 4rem;
+  }
+  
+  .search-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .search-section .search-bar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-section .search-bar input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+  }
+  
+  .search-section .search-bar button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 0 5px 5px 0;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  .search-section .search-bar button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Hover effect */
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
